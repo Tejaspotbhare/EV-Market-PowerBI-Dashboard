@@ -1,0 +1,58 @@
+# 🚗 EV Market 2026 – Power BI Dashboard
+
+## 📊 Project Overview
+
+An interactive Electric Vehicle Market Analysis Dashboard created using Microsoft Power BI.
+
+The dashboard provides insights into EV sales, pricing, battery capacity, driving range, brands, market segments, body types, and customer ratings.
+
+## 📈 Dashboard Features
+
+- Total Annual Sales
+- Average Price
+- Average Range
+- Average Battery Capacity
+- Customer Rating
+- Annual Sales Trend
+- Top Brands by Sales
+- Market Segment Analysis
+- Body Type Analysis
+- Battery Capacity vs Range
+- Interactive slicers
+- Dynamic KPI cards
+- Cross-filtering
+
+## 🎛️ Interactive Filters
+
+The dashboard includes filters for:
+
+- Year
+- Brand
+- Market Segment
+- Country
+- Body Type
+- Drive Type
+- Variant
+
+The visuals and KPI cards dynamically update when filters are applied.
+
+## 🛠️ Tools & Technologies
+
+- Microsoft Power BI
+- DAX
+- Power Query
+- Data Analysis
+- Data Visualization
+
+## 🖼️ Dashboard Preview
+
+![EV Market Power BI Dashboard](EV_Market_Dashboard.png)
+
+## 📂 Project Files
+
+- `EV_Market_2026_PowerBI_Dashboard.pbix` — Power BI report
+- `EV_Market_Dashboard.png` — Dashboard preview
+
+## 🎯 Objective
+
+The objective of this project is to transform EV market data into an interactive business intelligence dashboard and identify trends in sales, pricing, vehicle specifications, and market segments.
